@@ -1,0 +1,63 @@
+[
+    {
+        "sport": "Athletics",
+        "events": [
+            {"event": "100m", "country": "United States of America", "gold": 4, "silver": 5, "bronze": 4},
+            {"event": "200m", "country": "People's Republic of China", "gold": 3, "silver": 2, "bronze": 1},
+            {"event": "400m", "country": "Japan", "gold": 2, "silver": 1, "bronze": 2},
+            {"event": "1500m", "country": "Australia", "gold": 1, "silver": 3, "bronze": 3},
+            {"event": "Marathon", "country": "France", "gold": 2, "silver": 4, "bronze": 3}
+        ]
+    },
+    {
+        "sport": "Swimming",
+        "events": [
+            {"event": "100m Freestyle", "country": "United States of America", "gold": 5, "silver": 4, "bronze": 3},
+            {"event": "200m Freestyle", "country": "People's Republic of China", "gold": 3, "silver": 2, "bronze": 1},
+            {"event": "1500m Freestyle", "country": "Australia", "gold": 6, "silver": 2, "bronze": 4},
+            {"event": "Medley Relay", "country": "Japan", "gold": 1, "silver": 2, "bronze": 2},
+            {"event": "Butterfly", "country": "France", "gold": 0, "silver": 2, "bronze": 2}
+        ]
+    },
+    {
+        "sport": "Gymnastics",
+        "events": [
+            {"event": "Team Event", "country": "People's Republic of China", "gold": 5, "silver": 2, "bronze": 3},
+            {"event": "Individual All-Around", "country": "United States of America", "gold": 3, "silver": 4, "bronze": 2},
+            {"event": "Pommel Horse", "country": "Japan", "gold": 2, "silver": 1, "bronze": 2},
+            {"event": "Rings", "country": "Italy", "gold": 2, "silver": 1, "bronze": 2},
+            {"event": "Floor Exercise", "country": "France", "gold": 0, "silver": 2, "bronze": 2}
+        ]
+    },
+    {
+        "sport": "Cycling",
+        "events": [
+            {"event": "Road Race", "country": "Netherlands", "gold": 4, "silver": 2, "bronze": 1},
+            {"event": "Time Trial", "country": "Great Britain", "gold": 2, "silver": 2, "bronze": 3},
+            {"event": "Track Sprint", "country": "France", "gold": 3, "silver": 3, "bronze": 2},
+            {"event": "Mountain Biking", "country": "Australia", "gold": 3, "silver": 1, "bronze": 2},
+            {"event": "BMX", "country": "Italy", "gold": 1, "silver": 1, "bronze": 2}
+        ]
+    },
+    {
+        "sport": "Taekwondo",
+        "events": [
+            {"event": "Flyweight", "country": "Republic of Korea", "gold": 3, "silver": 2, "bronze": 1},
+            {"event": "Featherweight", "country": "Italy", "gold": 1, "silver": 2, "bronze": 2},
+            {"event": "Lightweight", "country": "France", "gold": 1, "silver": 1, "bronze": 2},
+            {"event": "Middleweight", "country": "Japan", "gold": 1, "silver": 1, "bronze": 1},
+            {"event": "Heavyweight", "country": "Republic of Korea", "gold": 4, "silver": 2, "bronze": 1}
+        ]
+    },
+    {
+        "sport": "Other Sports",
+        "events": [
+            {"event": "Archery", "country": "United States of America", "gold": 3, "silver": 4, "bronze": 4},
+            {"event": "Fencing", "country": "People's Republic of China", "gold": 4, "silver": 3, "bronze": 2},
+            {"event": "Judo", "country": "Australia", "gold": 1, "silver": 1, "bronze": 0},
+            {"event": "Shooting", "country": "France", "gold": 1, "silver": 1, "bronze": 2},
+            {"event": "Weightlifting", "country": "Italy", "gold": 2, "silver": 2, "bronze": 2},
+            {"event": "Wrestling", "country": "Republic of Korea", "gold": 3, "silver": 3, "bronze": 6}
+        ]
+    }
+]
